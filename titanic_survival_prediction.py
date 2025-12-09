@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1gFfzZr-SjIhIXH_4MaKNUU3Ao3eGI3FX
 
 # Titanic Survival Prediction
-Project start date: YYYY-MM-DD  
 Goal: Predict survival using classic Titanic dataset. This notebook documents data exploration, preprocessing, modeling, evaluation, and conclusions.
 """
 
